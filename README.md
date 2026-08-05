@@ -1,8 +1,10 @@
-# EchoMark — Internal Design Review (DO NOT DISTRIBUTE)
+Anyone ​who ​wishes ​to ​work ​remotely ​must ​be ​in ​the ​office ​for ​a ​minimum ​-- ​and ​I ​mean ​*minimum* ​-- ​of ​40 ​hours ​per ​week, ​or ​they ​should ​consider ​whether ​Solstice ​Motors ​is ​still ​the ​right ​fit ​for ​them. ​This ​is ​less ​than ​what ​we ​ask ​our ​production ​floor ​teams.
 
-Draft artwork for EchoMark's unreleased Q3 brand mascot, current name "Mr.WaddleMark" —
-pulled from an internal design review ahead of the public campaign
-announcement. Marketing hasn't signed off yet — please don't share this
-outside the design team.
+If ​there ​are ​exceptional ​contributors ​for ​whom ​this ​is ​genuinely ​not ​possible, ​I ​personally ​review ​and ​approve ​those ​exceptions.
 
-(wazzup hackers)
+Also, ​to ​be ​clear: ​the ​"office" ​must ​be ​a ​primary ​Solstice ​Motors ​facility ​- ​not ​a ​remote ​satellite ​office ​unrelated ​to ​your ​actual ​job ​duties. ​If ​your ​role ​is ​supporting ​HR ​for ​the ​Riverside ​plant, ​your ​office ​needs ​to ​be ​near ​or ​near ​the ​Riverside ​plant, ​not ​in ​a ​different ​state ​entirely.
+
+Thanks,
+
+Marcus
+ 
